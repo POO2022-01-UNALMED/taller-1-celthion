@@ -1,3 +1,5 @@
 Ingrese a continuación su primer apellido:Cardona
 
 Ingrese a continuación su segundo apellido:Duque
+
+No existio problema debido a que ambos cambios apuntaban a cosas diferentes y no a lo mismo, los cambios estaban en lineas y esto permitio que ambos se combinaran de manera adecuada.
