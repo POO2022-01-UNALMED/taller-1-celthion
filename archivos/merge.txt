@@ -1,3 +1,9 @@
+
 David Cardona Duque
 20 años
 Aprender las nociones basicas y generales de la programacion orientada a objetos, para aplicarlas de manera transversal en los diferentes lenguajes de programacion que lo requieran.
+
+Dentro de Github desktop no puedo crear un commit, ni subir ninguna nueva carpeta. Ahora bien, desde aqui evidentemente si puedo generar un commit con los cambios de esta carpeta.
+
+Es importante tener cuidado al modificar 2 archivos al mismo tiempo debido a que los cambios en los archivos pueden no estar actulizados en nuestros repositorios locales y por lo tanto si 1 archivo afecta al otro estariamos utilizando informacion desactualizada y lo cual podria llevar a hacer doble trabajo.
+
