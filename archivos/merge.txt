@@ -1,0 +1,1 @@
+Dentro de Github desktop no puedo crear un commit, ni subir ninguna nueva carpeta. Ahora bien, desde aqui evidentemente si puedo generar un commit con los cambios de esta carpeta
